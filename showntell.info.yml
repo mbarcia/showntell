@@ -48,7 +48,7 @@ dependencies:
 -  views_ui
 -  menu_link_content
 -  views
-theme:
+themes:
 -  stable
 -  classy
 -  bartik
